@@ -1,1 +1,1 @@
-# Test Gir course
+# Test Git course
